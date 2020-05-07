@@ -2,5 +2,6 @@
 ## Snapshot
 
 <img src="https://github.com/mailart/q2/blob/master/snapshot.jpg" width="40%">
-[https://github.com/mailart/q2/blob/master/snapshot.jpg](https://www.youtube.com/watch?v=ChoG2u0XrnE)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ChoG2u0XrnE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
