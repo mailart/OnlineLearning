@@ -1,9 +1,9 @@
 # Thoughts
 
 ## UI/UX
-	### Senior friendly with large button
-	### Multiple languages support for different location (demo supports French and english)
-	### Convert UTC format to local format based on the phone setting
+	1 Senior friendly with large button
+	2Multiple languages support for different location (demo supports French and english)
+	3 Convert UTC format to local format based on the phone setting
 
 ## Connection and permissons checker
 ### Check Connection Status
