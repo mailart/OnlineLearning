@@ -10,7 +10,9 @@
 	2 Runtime permission test and request if necessary
 	
 ## Http libary
-	There are few of libaries can be used to make http reqeust. <br/>In our case the request is a GET request and no custom HTTP headers required <br/>so the volley is used to make thing simple and good enough for what we need. 
+	There are few of libaries can be used to make http reqeust. 
+	In our case the request is a GET request and no custom HTTP headers required 
+	So the volley is used to make thing simple and good enough for what we need. 
 
 ## Error detection
 	1 Detect and warn a request error
